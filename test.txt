@@ -1,0 +1,7 @@
+This is a test file for finding doubled words.
+The cat jumped over the the chair.
+I really really like  programming.
+She said that that was not correct.
+Sometimes we we make typos by accident.
+This line has no doubled words at all.
+Can you you find all the the mistakes in this sentence? 

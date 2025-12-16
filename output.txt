@@ -1,0 +1,7 @@
+Line, Word, Characther Position 
+2, the, 20
+3, really, 8
+4, that, 12
+5, we, 12
+7, you, 7
+7, the, 20
